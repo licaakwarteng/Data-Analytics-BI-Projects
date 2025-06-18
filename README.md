@@ -1,1 +1,3 @@
-Marketing Campaign Effectiveness can be viewed on https://app.powerbi.com/links/1nbGZlmH1J?ctid=9664a2c8-badf-4bd4-b557-e8c6cbfe6143&pbi_source=linkShare
+![image](https://github.com/user-attachments/assets/9be3ab1d-dd34-45f1-83b1-a8aa77bfc539)
+
+![image](https://github.com/user-attachments/assets/29b997c2-28e0-4f71-b476-c6edb31647d8)
