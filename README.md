@@ -9,7 +9,7 @@ Here, is the dashboard for a quick overveiw of the KPIs
 ![image](https://github.com/user-attachments/assets/29b997c2-28e0-4f71-b476-c6edb31647d8)
 
 
-Lesson 7: Creating Reports and Dasboards
+Lesson 7: Creating Reports and Dasboards - 
 A dashboard is a quick overview while reports are individual pages of your insights.
 ![image](https://github.com/user-attachments/assets/e2bdbb75-5f5f-4ef2-9bf4-195a4d99c25d)
 
