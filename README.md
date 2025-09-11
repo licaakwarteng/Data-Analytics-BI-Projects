@@ -10,8 +10,4 @@
 
 ![image](https://github.com/user-attachments/assets/9bd454ce-721e-44d7-bde5-26d01c7447de)
 
-![image](https://github.com/user-attachments/assets/23365e1e-2817-4339-880f-cc58b2c642e5)
-
-
-
 
