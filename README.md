@@ -18,3 +18,6 @@ Maji_Ndogo_Water Access
 
 
 
+Analytics & Reporting - Lesson 6 Merge & Append
+
+<img width="1194" height="590" alt="image" src="https://github.com/user-attachments/assets/8479f85b-70a9-4779-9605-c6c0b211134b" />
