@@ -1,6 +1,3 @@
-Deleans Supplemenets Dashboard
-
-<img width="746" height="667" alt="image" src="https://github.com/user-attachments/assets/85e4d36e-d16d-4e63-93ff-5bacf9e01a25" />
 
 
 
